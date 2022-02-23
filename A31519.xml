@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain queries worthy mature consideration to beget good affections in the peoples hearts by purging secret ill humors out of the body of the Commonwealth, and that it may be restored to perfect health / by several lovers of a peaceable govenment.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31519</idno>
+            <idno type="STC">Wing C1748</idno>
+            <idno type="STC">ESTC R25979</idno>
+            <idno type="EEBO-CITATION">09308913</idno>
+            <idno type="OCLC">ocm 09308913</idno>
+            <idno type="VID">42684</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42684)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1304:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain queries worthy mature consideration to beget good affections in the peoples hearts by purging secret ill humors out of the body of the Commonwealth, and that it may be restored to perfect health / by several lovers of a peaceable govenment.</title>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  Great Britain.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42684:1"/>
+            <p>CERTAIN QUERIES, Worthy Mature Conſideration: TO Beget good affections in the Peoples hearts, by purging ſecret ill hu<g ref="char:EOLhyphen"/>mors out of the Body of the Commonwealth, and that it may be reſtored to perfect health.</p>
+            <p>
+               <hi>By ſeveral Lovers of a peaceable Government.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42684:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:42684:2"/>
+            <head>SEVERAL QUERIES.</head>
+            <p n="1">1. WHether a Protectorian, a Presbyterian, an Independant, an Protector of De<g ref="char:EOLhyphen"/>linquents, an accuſer of the Brethren, a receiver of Gifts, a countenancer of Presbyteri<g ref="char:EOLhyphen"/>an Prieſts that ſent horſes to the Earl of <hi>Holland,</hi> who with his wife and family took their abode at a Prieſts houſe, who when the King was at <hi>Oxford,</hi> ſent his man thither with money to a friend with the King; and did procure a Patent from the King, by which he enjoys about 400 <hi>li. per annum.</hi> Which Prieſt was alſo on horſeback to meet the Earl of <hi>Holland,</hi> and prepared a horſe for his man to ride in the Earl of <hi>Hollands</hi> Army; and did ride about and encourage his Pariſhioners to ſtand all as one man, for the Earls Armie, againſt the Parlia<g ref="char:EOLhyphen"/>ment: and alſo another Presbyterian Prieſt ſent his horſe to the Earl, and took Acquittance for it, to ſhew his good ſervice to his King; and many o<g ref="char:EOLhyphen"/>ther Presbyterian Prieſts were ready with their
+<pb n="2" facs="tcp:42684:3"/>horſes, which were protected as godly Miniſters; and thoſe Juſtices which did take the Depoſitions againſt them, he deſired them to forbearto proceed, alleadging one was his Kinſman; and he hoped he was an honeſt man, and he would take it as a fa<g ref="char:EOLhyphen"/>vour to him. The Juſtices replied they were ſatisfied upon the Oathes of many, that he was an Enemy to the State, and had ſent money to <hi>Oxford:</hi> and a Railer againſt the Army, an Encourager of o<g ref="char:EOLhyphen"/>thers to riſe as one man againſt the Parliaments Army. So the Juſtices refuſed his deſire; for which he fell out with them, and was mighty angry, and could never endure them ſince; and when he had gained of the Protector to be Major General of <hi>Kent</hi> and <hi>Surrey,</hi> he with the help of the Secretary of State and others, gets thoſe Juſtices out of the Commiſſion for the peace, Militia, and the ſet<g ref="char:EOLhyphen"/>tling of the Miniſters; and thus he rewarded them for their good ſervice to their Country, when none would appear for the Commonwealth but them till after <hi>Dunbar</hi> Fight: and thus by his power of Major Generalſhip, he gave them the rout that a<g ref="char:EOLhyphen"/>cted for the Commonwealth, and endeavours now to keep them out, and hath alwaies taken part with thoſe Juſtices that were for the King and a ſingle Perſon. Whether this be a fit perſon to be one of the Committee of the Army, Navy, and Gover<g ref="char:EOLhyphen"/>nour of <hi>Dover,</hi> and Major General for <hi>Kent</hi> and <hi>Surrey.</hi>
+            </p>
+            <p n="2">2. Whether an Ambodexter, a Cavalier, an
+<pb n="3" facs="tcp:42684:3"/>accuſer of the Brethren, a Pariſh Clark, a ſmall Prieſt, a Pope in his belly, a King, a ſingle Perſon, a Weather-cock in his head, a Presbyterian, an In<g ref="char:EOLhyphen"/>dependant, one while a Leveler, to be Major Gene<g ref="char:EOLhyphen"/>ral <hi>Raynsboroughs</hi> Major, and then againſt them; and when the Army kept Council at <hi>Putney,</hi> what was Debated in the day, he acquainted the King at <hi>Hampton</hi> Court at night, to get favour with him; and went over for <hi>Ireland;</hi> but when he was to do ſervice, pretended himſelf to be ſick, and deſired to go for <hi>England;</hi> but before the General would let him go, committed him to priſon, after ſome time turned him going: then he bought Debenters, and ſome Lands; and afterwards when the Army went for <hi>Scotland,</hi> he got to Command a Troop to be raiſed in <hi>Surrey,</hi> for to be ſent into <hi>Scotland.</hi> In <hi>Sur<g ref="char:EOLhyphen"/>rey</hi> he took horſes the beſt he could lay hand on, and left the beſt of them at <hi>Thybals</hi> Park, and ſome in other Parks, and goes for <hi>Scotland;</hi> and on the March diſmounts thoſe Souldiers that had the beſt horſes, and left ſome by the way, and ſome in <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> and he comes for <hi>England,</hi> and ſells thoſe horſes. An arand Coward, a great aſſerter of un<g ref="char:EOLhyphen"/>truths: give him honour and money, and aſſure him he ſhall not fight, you may ſend him to the De<g ref="char:EOLhyphen"/>vil of an errand: an enemy to all good men and godlineſs, but meerly to ſerve his own turne; be a fit man to ſerve in the Commiſſion in <hi>Surrey,</hi> and to Command the <hi>Surrey</hi> Troop, and to have a great truſt in the Tower of <hi>London.</hi>
+            </p>
+            <pb n="4" facs="tcp:42684:4"/>
+            <p n="3">3. Whether that great light, that lay moultring in the North among the Coal-pits, and it's ſaid, That he ſhould ſay of himſelf, was a <hi>Nebucadnezer,</hi> and had been ſeven years at graſs; which light being ſet on fire by the Spirit of God, came thun<g ref="char:EOLhyphen"/>dring out of the North into the South, rending and tearing thoſe thick clouds of darkneſs of Monar<g ref="char:EOLhyphen"/>chy, which hath over ſpread this Nation for well neer theſe ſeven years, theſe three Nations being Egyptionated and captivated with bondage of a ſingle Perſon and all his adherents: whether this thundring <hi>Moſes</hi> to this our Iſrael, this <hi>Jonathan</hi> to <hi>David,</hi> this Northern light with the North-Eaſt winde, taking hold of thoſe Coals which were co<g ref="char:EOLhyphen"/>vered over with thoſe Monarchal aſhes in the South, which kindled ſuch a fire which devoured <hi>Saul</hi> and <hi>Pharaoh</hi> and their Hoſts, to let our Iſrael go free: whether this light doth not ſhine ſo clear in their Conſciences, that they ſee an abſolute neceſſity to purge themſelves of the Babyloniſh Garments, and to caſt away thoſe croking Frogs and <hi>Babylons</hi> Brats, that our Iſrael may meet with no more plagues in their Wilderneſs, but may go free into their reſt, and ſit down in their <hi>Canaan</hi> under their Vines and Fig-trees?</p>
+            <p n="4">4. Whether the light in your conſcience do not tell you, that there was as great a light, and hope of <hi>Englands</hi> poor Iſrael going free from bondage from <hi>Babylons</hi> brats, ſeven years ago, before you eat graſs, as now, which the poor Iſrael of <hi>England</hi>
+               <pb n="5" facs="tcp:42684:4"/>thought they had been the Threſhing Inſtruments in Gods hand to deliver this our Iſrael: but when they conſulted with fleſh and bloud, &amp; went down to <hi>Egypt</hi> for help, and enquired of the Wiſe Men there, how ſoon did God leave them, to the great grief and extream ſorrow of all good men, to ſtand and behold ſo great a light, ſo great a <hi>Moſes</hi> to fall to the duſt, with a ſignet of his high diſpleaſure upon poor <hi>England,</hi> for looking for help from him, when he had left them?</p>
+            <p n="5">5. Whether or no you are not ſatisfied in Con<g ref="char:EOLhyphen"/>ſcience, that if a thorough purge be not made of ſuch, that are either open or ſecret Enemies or Neu<g ref="char:EOLhyphen"/>ters to the Commonwealth, and likewiſe encou<g ref="char:EOLhyphen"/>rage thoſe that you are ſatisfied in Conſcience are true and faithful to the Commonwealth without a ſingle Perſon or Houſe of Lords: and if a thorough Reformation be not made according to Righteouſneſs and Juſtice, without reſpect of per<g ref="char:EOLhyphen"/>ſons; whether you do believe that the People will put truſt in you any more, be it under what pre<g ref="char:EOLhyphen"/>tences of Religion ſoever?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
